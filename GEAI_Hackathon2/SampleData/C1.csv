@@ -1,7 +1,0 @@
-AccountNumber,AccountSource,Active__c,AnnualRevenue,BillingAddress,ExternalId
-,,Prospect,Active,1250000.00,&quot;123 Main St, Springfield, IL, 62701, USA&quot;,ACC-001
-,,Referral,Inactive,850000.50,&quot;456 Oak Ave, Metropolis, NY, 10001, USA&quot;,ACC-002
-,,Web,Active,230000.00,&quot;789 Pine Rd, Gotham, NJ, 07001, USA&quot;,ACC-003
-,,Partner,Active,540000.75,&quot;321 Maple Dr, Star City, CA, 90001, USA&quot;,ACC-004
-,,Other,Inactive,120000.00,&quot;654 Cedar Ln, Central City, TX, 73301, USA&quot;,ACC-005
-

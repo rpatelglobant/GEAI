@@ -1,7 +1,0 @@
-AccountNumber,AccountSource,Active__c,AnnualRevenue,BillingAddress_Street,BillingAddress_City,BillingAddress_State,BillingAddress_PostalCode,BillingAddress_Country,ExternalId__c
-ACC-1001,Web,Yes,120000.00,123 Main St,San Francisco,CA,94105,USA,EXT-001
-ACC-1002,Partner Referral,No,85000.00,456 Oak Ave,Los Angeles,CA,90001,USA,EXT-002
-ACC-1003,Phone Inquiry,Yes,250000.00,789 Pine Rd,New York,NY,10001,USA,EXT-003
-ACC-1004,Other,No,43000.00,321 Maple Dr,Chicago,IL,60601,USA,EXT-004
-ACC-1005,Web,Yes,175000.00,654 Cedar Ln,Austin,TX,73301,USA,EXT-005
-
