@@ -1,7 +1,7 @@
-AccountNumber,AccountSource,Active__c,AnnualRevenue,BillingAddress
-,,No,1250000.00,&quot;123 Main St, Springfield, IL 62704, USA&quot;
-,,Yes,850000.00,&quot;456 Oak Ave, Metropolis, NY 10001, USA&quot;
-,,No,230000.00,&quot;789 Pine Rd, Smallville, KS 66002, USA&quot;
-,,Yes,4200000.00,&quot;321 Maple St, Gotham, NJ 07097, USA&quot;
-,,No,670000.00,&quot;654 Elm St, Star City, CA 90001, USA&quot;
+AccountNumber,AccountSource,Active__c,AnnualRevenue,BillingStreet,BillingCity,BillingState,BillingPostalCode,BillingCountry,ExternalId
+ACC-1001,Web,Yes,150000.00,123 Market St,San Francisco,CA,94105,USA,EXT-ACC-001
+ACC-1002,Partner Referral,No,250000.00,456 Elm Ave,Los Angeles,CA,90001,USA,EXT-ACC-002
+ACC-1003,Phone Inquiry,Yes,50000.00,789 Oak Blvd,New York,NY,10001,USA,EXT-ACC-003
+ACC-1004,Other,No,1200000.00,321 Pine Rd,Chicago,IL,60601,USA,EXT-ACC-004
+ACC-1005,Web,Yes,300000.00,654 Maple Dr,Houston,TX,77002,USA,EXT-ACC-005
 
