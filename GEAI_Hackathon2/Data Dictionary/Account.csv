@@ -1,10 +1,10 @@
 Object,Field API Name,Field Label,Data Type,Length,Precision,Scale,Required,Unique,External ID,Picklist Values,Lookup Relationship To,Relationship Name
 Account,AccountNumber,,,false,,,,,,,,
-Account,AccountSource,,Picklist,false,,,,,,,,
-Account,Active__c,Active,Picklist,false,,,,,,,,
+Account,AccountSource,,Picklist,false,,,,,,
+Account,Active__c,Active,Picklist,false,,,,,No;Yes,,,,
 Account,AnnualRevenue,,,false,,,,,,,,
 Account,BillingAddress,,,false,,,,,,,,
-Account,CustomerPriority__c,Customer Priority,Picklist,false,,,,High;Low;Medium,,,,,
+Account,CustomerPriority__c,Customer Priority,Picklist,false,,,,,High;Low;Medium,,,,
 Account,DandbCompanyId,,,Lookup,false,,,,,,,,
 Account,Description,,,false,,,,,,,,
 Account,DunsNumber,,,false,,,,,,,,
