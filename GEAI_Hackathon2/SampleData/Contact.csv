@@ -1,6 +1,6 @@
-ExternalId,AccountId,AssistantName,AssistantPhone,Birthdate,ContactSource,Department,Description,DoNotCall,Email,Fax
-C-0001,,Jane Smith,415-555-1111,1985-04-12,Web,Sales,Handles key accounts,False,jane.smith@acme.com,415-555-2222
-C-0002,,Robert Brown,212-555-2222,1978-09-23,Referral,Operations,Manufacturing lead,True,robert.brown@globex.com,212-555-3333
-C-0003,,Emily Davis,206-555-3333,1990-12-05,Partner,Consulting,IT project manager,False,emily.davis@initech.com,206-555-4444
-C-0004,,Michael Lee,512-555-4444,1982-07-19,Other,Retail,Store manager,False,michael.lee@starkretail.com,512-555-5555
-C-0005,,Sophia Turner,617-555-5555,1995-11-30,Advertisement,Healthcare,Patient relations,True,sophia.turner@waynehealth.com,617-555-6666
+AccountId,AssistantName,AssistantPhone,Birthdate,ContactSource,Department,Description,DoNotCall,Email,Fax
+1200000,Jessica Lee,415-555-1111,1985-03-12,Web,Sales,Key decision maker,False,jlee@acme.com,415-555-2222
+850000,Michael Chen,212-555-3333,1978-07-25,Referral,Marketing,Handles major accounts,True,mchen@globalretail.com,212-555-4444
+2300000,Sarah Patel,312-555-5555,1990-11-02,Advertisement,Operations,Oversees logistics,False,spatel@consultingpartners.com,312-555-6666
+640000,David Kim,213-555-7777,1982-01-18,Partner Referral,Finance,Manages budgets,False,dkim@westcoastmfg.com,213-555-8888
+1500000,Linda Garcia,617-555-9999,1975-05-30,Other,HR,Leads recruitment,True,lgarcia@eastcoastdist.com,617-555-0000
