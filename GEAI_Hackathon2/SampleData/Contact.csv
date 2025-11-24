@@ -1,0 +1,6 @@
+ExternalId,AccountId,AssistantName,AssistantPhone,Birthdate,ContactSource,Department,Description,DoNotCall,Email,Fax
+C-0001,,Jane Smith,415-555-1111,1985-04-12,Web,Sales,Handles key accounts,False,jane.smith@acme.com,415-555-2222
+C-0002,,Robert Brown,212-555-2222,1978-09-23,Referral,Operations,Manufacturing lead,True,robert.brown@globex.com,212-555-3333
+C-0003,,Emily Davis,206-555-3333,1990-12-05,Partner,Consulting,IT project manager,False,emily.davis@initech.com,206-555-4444
+C-0004,,Michael Lee,512-555-4444,1982-07-19,Other,Retail,Store manager,False,michael.lee@starkretail.com,512-555-5555
+C-0005,,Sophia Turner,617-555-5555,1995-11-30,Advertisement,Healthcare,Patient relations,True,sophia.turner@waynehealth.com,617-555-6666
