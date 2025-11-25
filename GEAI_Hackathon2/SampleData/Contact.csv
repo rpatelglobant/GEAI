@@ -1,6 +1,6 @@
-ExternalId,AccountId,AssistantName,AssistantPhone,Birthdate,ContactSource,Department,Description,DoNotCall,Email,Fax
-CON-00001,ACC-00001,Jessica Lee,415-555-1111,1985-04-12,Web,Engineering,Lead engineer contact,false,jessica.lee@acme.com,415-555-1101
-CON-00002,ACC-00002,Michael Chen,213-555-2222,1978-09-23,Partner Referral,Finance,Primary finance contact,true,michael.chen@westside.com,213-555-2202
-CON-00003,ACC-00003,Sarah Patel,212-555-3333,1990-01-30,Advertisement,Operations,Handles east coast operations,false,sarah.patel@easthealth.com,212-555-3303
-CON-00004,ACC-00004,David Kim,312-555-4444,1982-07-15,Other,Manufacturing,Midwest manufacturing lead,false,david.kim@midwestmfg.com,312-555-4404
-CON-00005,ACC-00005,Linda Garcia,512-555-5555,1988-11-05,Web,IT,Southwest tech IT manager,true,linda.garcia@southwesttech.com,512-555-5505
+ExternalId__c,AccountId,AssistantName,AssistantPhone,Birthdate,ContactSource,Department,Description,DoNotCall,Email,Fax
+CON-00001,ACC-00001,Jessica Lee,415-555-2001,1985-04-12,Web,Sales,Handles key accounts,false,jessica.lee@acmecorp.com,415-555-2101
+CON-00002,ACC-00002,Michael Chen,213-555-3002,1979-09-23,Partner Referral,Finance,Senior financial analyst,true,michael.chen@westsidefin.com,213-555-3102
+CON-00003,ACC-00003,Sarah Patel,212-555-4003,1990-01-17,Other,Operations,Coordinates east coast operations,false,sarah.patel@eastsidehealth.org,212-555-4103
+CON-00004,ACC-00004,David Kim,312-555-5004,1982-07-30,Web,Manufacturing,Oversees Midwest production,false,david.kim@midwestmfg.com,312-555-5104
+CON-00005,ACC-00005,Linda Garcia,512-555-6005,1995-11-05,Partner Referral,Admissions,Admissions coordinator,true,linda.garcia@southwestuniv.edu,512-555-6105
