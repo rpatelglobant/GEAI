@@ -1,6 +1,0 @@
-Object,Field API Name,Field Label,Data Type,Length,Precision,Scale,Required,Unique,External ID,Picklist Values,Lookup Relationship To,Relationship Name
-Account,AccountNumber,,Text,,,,false,,,,,,
-Account,AccountSource,,Picklist,,,,false,,,,,,
-Account,Active__c,Active,Picklist,,,,false,,,,,,
-Account,AnnualRevenue,,Currency,,,,false,,,,,,
-Account,BillingAddress,,Address,,,,false,,,,,,
